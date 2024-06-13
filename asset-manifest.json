@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbe33458.css",
+    "main.js": "/static/js/main.46a62f23.js",
+    "static/js/453.07bc1902.chunk.js": "/static/js/453.07bc1902.chunk.js",
+    "static/media/banner_img.svg": "/static/media/banner_img.8514d8bd7abe87bf2e345fc20c7ddc62.svg",
+    "static/media/cards_bg.svg": "/static/media/cards_bg.fa27d36e39b99c82eda5.svg",
+    "static/media/background_about.svg": "/static/media/background_about.282a717bcd43825d92f0.svg",
+    "static/media/bg_delivery.svg": "/static/media/bg_delivery.678fc99b83706f10b642.svg",
+    "static/media/logo_end_footer.svg": "/static/media/logo_end_footer.c97c446524b8ebf034e32c806973d3a8.svg",
+    "static/media/bg_maps.svg": "/static/media/bg_maps.c9f26494a2c4325a32ca.svg",
+    "static/media/logo_footer.svg": "/static/media/logo_footer.d61ef51f0b48f4901136e1b4f219b24f.svg",
+    "static/media/logo_img.svg": "/static/media/logo_img.42410fe08c10d056778a07836505a819.svg",
+    "static/media/terminal.svg": "/static/media/terminal.bedf61a46c78b90ea27bc1e7a92c7808.svg",
+    "static/media/car.svg": "/static/media/car.6fdd30c48b2b0e3c3838ebd8989cdda2.svg",
+    "static/media/flower_red_list.svg": "/static/media/flower_red_list.d1027e1b9cafed3ac1af.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.c3d6cf61be7b7f590381c88a64952ed2.svg",
+    "static/media/mir.svg": "/static/media/mir.c73186ffedcb6752c8636ebf4fd08a08.svg",
+    "static/media/visa.svg": "/static/media/visa.b390f6594b8a9689f83fec868ff1bf3b.svg",
+    "static/media/markLocation.svg": "/static/media/markLocation.2ba687c2554e136716eafdda2e096a2c.svg",
+    "static/media/clock.svg": "/static/media/clock.4223f69995e7b1f09ec1c78f0c31b851.svg",
+    "static/media/vk.svg": "/static/media/vk.23529d45d743c786da0138612d879a8e.svg",
+    "static/media/instagram.svg": "/static/media/instagram.7d8905d164f04f326f5f5be1c1f72569.svg",
+    "static/media/phone.svg": "/static/media/phone.421d1dab20feb611da0c4604277bec45.svg",
+    "static/media/telegram.svg": "/static/media/telegram.8591789f881bbb2b7c3e026edc2383e0.svg",
+    "index.html": "/index.html",
+    "static/media/mastercard.svg": "/static/media/mastercard.e0c07b8d782c648a045973b1e6883390.svg",
+    "static/media/Basket.svg": "/static/media/Basket.8b2aa313a76dc3949785365e20399e57.svg",
+    "main.dbe33458.css.map": "/static/css/main.dbe33458.css.map",
+    "main.46a62f23.js.map": "/static/js/main.46a62f23.js.map",
+    "453.07bc1902.chunk.js.map": "/static/js/453.07bc1902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe33458.css",
+    "static/js/main.46a62f23.js"
+  ]
+}
